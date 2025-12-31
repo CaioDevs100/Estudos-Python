@@ -14,8 +14,6 @@ Repositório criado para registrar meus estudos e práticas em Python, com foco 
 
 - Manipulação de arquivos
 
-- Tratamento de exceções (try / except)
-
 - Módulos e bibliotecas padrão
 
 - Projetos práticos para fixação do aprendizado
